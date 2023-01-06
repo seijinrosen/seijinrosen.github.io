@@ -4,6 +4,7 @@
 
 - [アルゴ式](https://algo-method.com/users/9515-0942)
 - [AtCoder](https://atcoder.jp/users/seijinrosen)
+- [crates.io](https://crates.io/users/seijinrosen)
 - [GitHub](https://github.com/seijinrosen)
 - [AtCoder Problems](https://kenkoooo.com/atcoder/#/user/seijinrosen)
 - [PyPI](https://pypi.org/user/seijinrosen/)
@@ -12,6 +13,7 @@
 
 ## Works
 
+- [mkmk - crates.io](https://crates.io/crates/mkmk)
 - [acac · PyPI](https://pypi.org/project/acac/)
 - [gtfu · PyPI](https://pypi.org/project/gtfu/)
 - [lssr · PyPI](https://pypi.org/project/lssr/)
