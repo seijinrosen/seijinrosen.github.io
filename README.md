@@ -14,6 +14,7 @@
 ## Works
 
 - [mkmk - crates.io](https://crates.io/crates/mkmk)
+- [rspy - crates.io](https://crates.io/crates/rspy)
 - [acac · PyPI](https://pypi.org/project/acac/)
 - [gtfu · PyPI](https://pypi.org/project/gtfu/)
 - [lssr · PyPI](https://pypi.org/project/lssr/)
