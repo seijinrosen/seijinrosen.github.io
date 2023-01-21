@@ -20,6 +20,7 @@
 - [lssr · PyPI](https://pypi.org/project/lssr/)
 - [エンゼルマネタリー](https://angel-monetary.seijinrosen.com/)
 - [Search ECs](https://search-ecs.seijinrosen.com/)
+- [tools](https://tools.seijinrosen.com/)
 - [TWOSHOT Checker](https://twoshot.seijinrosen.com/)
 
 ## Articles
